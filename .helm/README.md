@@ -1,1 +1,0 @@
-# XPaste Helm Chart
